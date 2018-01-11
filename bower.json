@@ -1,5 +1,6 @@
 {
   "name": "roncemer/rowfetcher",
+  "version": "1.0.0",
   "main": "rowfetcher.js",
   "dependencies": {
     "jquery": ">=2.0.0"
