@@ -1,15 +1,15 @@
 {
   "name": "roncemer/rowfetcher",
   "version": "1.0.0",
+  "authors": [
+    "Ron Cemer <ron@roncemer.com>"
+  ],
+  "description": "Simple AJAX Row Fetcher with callbacks, lots of options",
   "main": "rowfetcher.js",
   "dependencies": {
     "jquery": ">=2.0.0"
   },
   "homepage": "https://github.com/roncemer/rowfetcher",
-  "authors": [
-    "Ron Cemer <ron@roncemer.com>"
-  ],
-  "description": "Simple AJAX Row Fetcher with callbacks, lots of options",
   "keywords": [
     "AJAX",
     "Row",
